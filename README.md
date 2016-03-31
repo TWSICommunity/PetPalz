@@ -8,3 +8,8 @@ Petpalz is a online virtual pet site owned by Chihuahua.
 I believe they use PHP, HTML and MySQL at some point. (
 
 # Changes?
+
+# The Team who is working on the project.
+1. Chihuahua - Owner/Site owner
+2. TWSICommunity - Main focuses are CSS and other things.
+3. Piplup (Sometimes called different names on different sites) - I think the main focuses is like Javascripting, html and some php.
