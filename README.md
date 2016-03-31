@@ -12,4 +12,5 @@ I believe they use PHP, HTML and MySQL at some point. (
 # The Team who is working on the project.
 1. Chihuahua - Owner/Site owner
 2. TWSICommunity - Main focuses are CSS and other things.
-3. Piplup (Sometimes called different names on different sites) - I think the main focuses is like Javascripting, html and some php.
+3. Piplup - I think the main focuses is like Javascripting, html and some php. Co-Owner.
+4. fluffyswan - Co-Owner and helps with ideas for things.
