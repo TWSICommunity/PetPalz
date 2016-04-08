@@ -1,3 +1,9 @@
-/*
- CSS Styling in progress...
-*/
+/* Remove this line.
+#borderimg1 { 
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 30 round;
+    -o-border-image: url(border.png) 30 round;
+    border-image: url(border.png) 30 round;
+}
+And this line once finished.*/
