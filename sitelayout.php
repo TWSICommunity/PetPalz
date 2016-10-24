@@ -199,8 +199,10 @@ else
 
 <p style="color:black;"><p style="font-family:comiquitasans;color:black;">Chatbox</p></p>
 
+<!-- Let's not use mibbit maybe. We might use an alternative chat program of our own. Let's callange ourselves.
 <iframe width="210" height="650" scrolling="no" src="http://widget.mibbit.com/?settings=5db4519497f97bef141f07d0734705f2&server=irc.mibbit.net&channel=%23petpalz_test"></iframe>
-
+-->
+<iframe width="210" height="650" scrolling="no" src="chat.php"></iframe> <!-- Our new chat that will develope alot of uses. -->
 </td>
 </tr>
 </table>
